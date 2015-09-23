@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tolbrino/www.tbreddin.com.svg)](https://travis-ci.org/tolbrino/www.tbreddin.com.de)
+[![Build Status](https://travis-ci.org/tolbrino/www.tbreddin.com.svg)](https://travis-ci.org/tolbrino/www.tbreddin.com)
 
 # Personal Website
 
